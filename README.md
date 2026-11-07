@@ -1,4 +1,4 @@
-![epip Starcome](img/github-header-banner.png)
+<img width="1411" height="277" alt="github-header-banner" src="https://github.com/user-attachments/assets/b7d3f276-1c37-4aae-859c-666b618e1f22" />
 
 Halo! Saya **Muhammad Afif**, seorang pengembang perangkat lunak yang berfokus pada pengembangan aplikasi seluler (Mobile Development) dan sistem berbasis objek. Memiliki fondasi teknis yang kuat dari Politeknik Negeri Bengkalis dan saat ini sedang memperdalam ilmu di jenjang Sarjana (S1) Sistem Informasi di Universitas AMIKOM Yogyakarta.
 
@@ -23,7 +23,6 @@ Halo! Saya **Muhammad Afif**, seorang pengembang perangkat lunak yang berfokus p
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="" />
 
 #### Frameworks & Library
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -36,11 +35,10 @@ Halo! Saya **Muhammad Afif**, seorang pengembang perangkat lunak yang berfokus p
 #### OS
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
 
 #### Media
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-<img src="" />
 
