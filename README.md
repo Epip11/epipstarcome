@@ -1,4 +1,5 @@
-![epip Starcome](img/github-header-banner.png)
+<img width="1411" height="277" alt="github-header-banner" src="https://github.com/user-attachments/assets/8b21d904-5e15-49b9-9bf0-1bd56babdb4f" />
+
 
 Halo! Saya **Muhammad Afif**, seorang pengembang perangkat lunak yang berfokus pada pengembangan aplikasi seluler (Mobile Development) dan sistem berbasis objek. Memiliki fondasi teknis yang kuat dari Politeknik Negeri Bengkalis dan saat ini sedang memperdalam ilmu di jenjang Sarjana (S1) Sistem Informasi di Universitas AMIKOM Yogyakarta.
 
@@ -7,7 +8,7 @@ Halo! Saya **Muhammad Afif**, seorang pengembang perangkat lunak yang berfokus p
 - 🎓 **Pendidikan Terkini:** Mahasiswa S1 Sistem Informasi - Universitas AMIKOM Yogyakarta (Semester 6)
 - 📜 **Latar Belakang:** Diploma 3 (D3) Teknik Informatika - Politeknik Negeri Bengkalis (Polbeng)
 - 🛠️ **Fokus Utama:** Mobile App Development (Dart & Flutter), Object-Oriented Programming (OOP), dan UI/UX Design.
-- 📍 **Domisili:** Yogyakarta, Indonesia
+- 📍 **Domisili : Bengkalis, Indonesia
 
 ---
 
