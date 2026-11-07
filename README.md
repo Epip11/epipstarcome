@@ -1,15 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=Halo,%20Dunia!%20👋&fontSize=24&fontColor=ffffff"/>
-</div>
-
-<div align="center">
-  <h1>Hi, I'm Muhammad Afif</h1>
-  <h3>🚀 Mobile & Software Developer | Tech Enthusiast</h3>
-</div>
-
----
-
-### 💻 Tentang Saya
+![epip Starcome](img/github-header-banner.png)
 
 Halo! Saya **Muhammad Afif**, seorang pengembang perangkat lunak yang berfokus pada pengembangan aplikasi seluler (Mobile Development) dan sistem berbasis objek. Memiliki fondasi teknis yang kuat dari Politeknik Negeri Bengkalis dan saat ini sedang memperdalam ilmu di jenjang Sarjana (S1) Sistem Informasi di Universitas AMIKOM Yogyakarta.
 
